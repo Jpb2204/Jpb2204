@@ -48,12 +48,10 @@ Estudante - Curso Técnico de Eletroeletrônica <br>
 
 ---
 
-## Sobre mim
+##
 
 <p align="center">
-Apaixonado por tecnologia
-Focado em desenvolvimento em C 
-Sempre buscando evoluir!
+"A única maneira de fazer um excelente trabalho é amar o que você faz."
 </p>
 
 ---
