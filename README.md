@@ -1,7 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Borges&fontColor=#FFFFFFF&fontSize=45&fontAlignY=35"/>
-</p>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Borgess&fontColor=ffffff&fontSize=45"/>
 
 ---
 
