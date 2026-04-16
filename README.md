@@ -1,11 +1,11 @@
-<h1 align="center">Borgess</h1>
+<h1 align="center">Jpb2204</h1>
 
 <h3 align="center" style="color:#E6C35C;">Desenvolvedor em Formação</h3>
 
 ---
 
 <p align="center">
-Técnico em Eletroeletrônica <br>
+Estudante - Curso Técnico de Eletroeletrônica <br>
 Foco em programação em C
 </p>
 
