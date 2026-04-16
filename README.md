@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:ffffff&height=200&section=header&text=Borges&fontColor=000000&fontSize=45&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Borgess&fontColor=58A6FF&fontSize=45&fontAlignY=35"/>
 </p>
 
 ---
 
-<h3 align="center" style="color:#ffffff;">
+<h3 align="center" style="color:#58A6FF;">
 Desenvolvedor em Formação
 </h3>
 
@@ -16,53 +16,51 @@ Foco em programação em C
 
 ---
 
-## Habilidades
+## 🛠️ Habilidades
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-1f6feb?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Borgess&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgess&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Borgess&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1f6feb&text_color=ffffff&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borgess&layout=compact&hide_border=true&title_color=58A6FF&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 ---
 
-## Streak
+## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Borgess&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
+  <img src="https://streak-stats.demolab.com?user=Borgess&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=1f6feb&currStreakLabel=58A6FF"/>
 </p>
 
 ---
 
-## Atividade
+## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Borgess&bg_color=000000&color=ffffff&line=ffffff&point=cccccc&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Borgess&bg_color=0d1117&color=58A6FF&line=1f6feb&point=79c0ff&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## Sobre mim
+## 🧠 Sobre mim
 
 <p align="center">
-Apaixonado por tecnologia, 
-Focado em desenvolvimento em C
-Sempre buscando evoluir como programador.
+Apaixonado por tecnologia, focado em desenvolvimento em C e sempre buscando evoluir como programador.
 </p>
 
 ---
 
-## Contato
+## ⚡ Contato
 
 <p align="center">
   <a href="https://github.com/Borgess">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
   </a>
 </p>
