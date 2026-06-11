@@ -1,11 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:1f6feb&text=Borges&fontColor=58A6FF&fontSize=50&fontAlignY=35"/>
-</p>
-
-<h1 align="center">
-</h1>
-
 <p align="center">
 Estudante de Eletroeletrônica <br>
 </p>
