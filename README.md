@@ -38,14 +38,6 @@ Estudante de Eletroeletrônica <br>
 </p>
 
 ---
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Borgess&bg_color=0d1117&color=58A6FF&line=1f6feb&point=79c0ff&area=true&hide_border=true"/>
-</p>
-
----
 ##
 <p align="center">
 <i>
