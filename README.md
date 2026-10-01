@@ -5,8 +5,6 @@ Estudante de Eletroeletrônica <br>
 ---
 ##
 <p align="center">
-<i>
-"O fracasso é apenas a oportunidade de começar de novo, desta vez de forma mais inteligente."
 </i>
 </p>
 
